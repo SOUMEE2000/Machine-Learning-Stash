@@ -16,6 +16,7 @@ Change the runtime to GPU in colab for better performance.
 
 ## Youtube Resources for nlp:
 NPTEL(Applied NLP): https://www.youtube.com/playlist?list=PLH-xYrxjfO2WyR3pOAB006CYMhNt4wTqp
+
 NPTEL(Some theory is good too. :)): https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI
 
 Krish Naik: https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
