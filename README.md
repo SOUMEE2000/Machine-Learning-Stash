@@ -5,7 +5,9 @@ some of the results I found while playing around with these NLP tools. **The ins
 in the notebooks.** Trying to recreate these notebooks would be helpful for anyone interested. Constructive criticism is also welcome.
 
 ## Description:
-Tried to apply my knowledge on the IMDB review dataset for sentiment analysis:
+Tried to apply my knowledge on the IMDB review dataset for sentiment analysis
+
+## Files:
 
 File-1: How even different vectorisers affect the accuracy of data
 
