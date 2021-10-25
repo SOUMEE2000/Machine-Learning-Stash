@@ -1,6 +1,7 @@
 https://www.researchgate.net/publication/282610419_A_Survey_of_Medical_Image_Processing_Tools ---- **A Survey of Medical Image Processing Tools**
 
 https://www.researchgate.net/publication/236185116_The_Medical_Imaging_Interaction_Toolkit_challenges_and_advances ---- **The Medical Imaging Interaction Toolkit: challenges and advances**
+
 https://link.springer.com/chapter/10.1007/978-3-642-01932-6_45 ---- **GIMIAS: An Open Source Framework for Efficient Development of Research Tools and Clinical Prototypes**
 
 https://sci-hub.se/10.1016/j.neuroimage.2006.01.015 ---- **User-guided 3D active contour segmentation of anatomical structures: Significantly improved efficiency and reliability**
